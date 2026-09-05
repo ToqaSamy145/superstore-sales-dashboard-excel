@@ -16,21 +16,21 @@ The workbook includes the following sheets:
 | **customer segmention** | Sales breakdown by customer segment (Consumer, Corporate, Home Office) |
 | **Total Orders** | Total count of orders |
 
-## 🔑 Key Insights
+## Key Insights
 
 - **Total Sales:** ~$2.3M | **Total Profit:** ~$286K | **Total Orders:** 9,993
 - **Top Category:** Technology (highest profit)
 - **Top Region:** West (highest sales & profit)
 - **Top Sub-Category:** Phones (highest sales)
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel (Pivot Tables, Pivot Charts, Slicers)
 
-## 📌 Data Source
+## Data Source
 
 Based on the well-known **Sample Superstore** dataset, commonly used for practicing data analysis and dashboard building.
 
-## 🚀 About This Project
+## About This Project
 
 This is my first Excel data analysis project, created to practice building dashboards and extracting business insights from raw sales data.
