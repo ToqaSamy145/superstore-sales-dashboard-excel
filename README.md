@@ -1,8 +1,8 @@
-# 📊 Superstore Sales Dashboard (Excel)
+# Superstore Sales Dashboard (Excel)
 
 An interactive Excel dashboard analyzing sales and profit performance for a retail superstore, covering the period **2016–2019**. Built using **Pivot Tables**, **Pivot Charts**, and slicers for dynamic filtering.
 
-## 📁 Contents
+## Contents
 
 The workbook includes the following sheets:
 
